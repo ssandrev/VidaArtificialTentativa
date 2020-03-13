@@ -1,0 +1,2 @@
+# VidaArtificialTentativa
+Criação de um programa que simula a vida, reprodução e morte de plantas e herbívoros. Devido a falta de tempo e conhecimento o projeto foi "cancelado" após a inclusão de herbívoros. Esse programa foi uma releitura do programa apresentado na aula do professor David Ackley sobre vida artificial, utilizando os conhecimentos adquiridos no inicio do aprendizado da linguagem de programação Python. Realizado entre abril e junho de 2019.
